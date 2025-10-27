@@ -1,0 +1,5 @@
+What is Spring Boot?
+
+Spring Boot is a framework built on top of the Spring Framework that makes it easy to create standalone, production-ready Java applications — with minimal configuration.
+
+Spring Boot = Spring Framework + Auto Configuration + Embedded Server + Production tools
