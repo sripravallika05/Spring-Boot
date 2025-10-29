@@ -1,0 +1,2 @@
+The @Autowired annotation in Spring, including in Spring Boot applications, is used for automatic dependency injection. It instructs the Spring IoC (Inversion of Control) container to automatically resolve and inject collaborating beans into your objects. This eliminates the need for manual instantiation of dependencies, 
+promoting loose coupling and making your code more modular and testable.
